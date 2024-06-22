@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.p-0{
+    background-image: url('https://www.codingnepalweb.com/wp-content/uploads/2022/11/Responsive-Login-and-Registration-Form-in-HTML.png');
+    /* border:  solid  ; */
+}
